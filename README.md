@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<h1> Hi, my name is Nirajan (Neer) </h1>
 <!--
 **j-nirajan/j-nirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

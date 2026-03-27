@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+<a href="https://www.linkedin.com/in/nirajan-j-251640323">you can visit my Linkedin profile</a>
 <!--
 **j-nirajan/j-nirajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

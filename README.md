@@ -1,5 +1,7 @@
 <h1>Nirajan 👋</h1>
 
+<p>I build web and digital systems for businesses</p>
+
 <a href="https://www.linkedin.com/in/nirajan-j-251640323">LinkedIn</a>
 
 <!--

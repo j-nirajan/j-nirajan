@@ -1,6 +1,6 @@
 <h1>Nirajan 👋</h1>
 
-<p>I build web and digital systems for businesses and people </p>
+<p>Hi I am studying CS right now</p>
 
 <a href="https://www.linkedin.com/in/nirajan-j-251640323">LinkedIn</a>
 

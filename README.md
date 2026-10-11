@@ -1,3 +1,3 @@
 - 🔭 I’m currently working on Pset 4
 - 🌱 I’m currently working with C
-- 😄 Pronouns: "Neer + ra + jan," or you can call me "Neer"
+- 😄 Pronouns: "Nir + ra + jan," or you can call me "Nir"
